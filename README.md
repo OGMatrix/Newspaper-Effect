@@ -2,9 +2,11 @@
 Wondering how youtube channels do this cool effect? Do it for free with this repository in seconds!
 
 ## Examples
-Example Video (soon)
+https://github.com/OGMatrix/Newspaper-Effect/assets/49974161/5e01d4a1-9d84-4621-acee-28fde1c90dc5
 
 ## How it works
+
+
 - Loops through each images and transcribes your news posts via pytesseract
 - After transcribing it searches for your entered keywords and creates a cropped image of it centered (if the title has enough height to the top of the page)
 - Using moviepy it creates the video with a delay of 0.3 seconds between each image
