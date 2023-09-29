@@ -3,6 +3,7 @@ Wondering how youtube channels do this cool effect? Do it for free with this rep
 
 ## Examples
 Created using the example images, `Keyword`: **Area 51**, Cropped `Cropped Offset`: **200** and `Image Duration` set to **0.3**.
+
 https://github.com/OGMatrix/Newspaper-Effect/assets/49974161/5e01d4a1-9d84-4621-acee-28fde1c90dc5
 
 ## How it works
