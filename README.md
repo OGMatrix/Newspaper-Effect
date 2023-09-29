@@ -22,6 +22,8 @@ After that you have to install the required pip libraries using
 $ pip install -r requirements.txt
 ```
 
+When it is done with installing you can open the ```setup.bat```. After its finished you have finished setting up the project!
+
 ## How to use
 - First you have to collect as much images as you want from the news pages in **English**  <br>**ATTENTION:**<br> - It is recommended that the title has a specific height from the top of the page <br> - It is recommended to take the sreenshots in F12 and ALT + DRUCK and then copy it into **```images```** directory <br> - It is recommended that before the headline in the newspaper there is no text that includes your keyword
 - After collecting the images you can start the project with<br>``` python main.py ```
