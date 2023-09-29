@@ -1,0 +1,6 @@
+prompt
+pytesseract
+os
+moviepy
+opencv-python
+re
